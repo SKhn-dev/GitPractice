@@ -5,5 +5,6 @@ public class GitPractice {
         System.out.println("Malik's changes");
         System.out.println("Shafaq's changes again");
         System.out.println("malik's second changes");
+        System.out.println("aaliya's first changes");
     }
 }
